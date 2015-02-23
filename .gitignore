@@ -1,0 +1,5 @@
+tmp/*
+bitbake.lock
+cache/*
+sstate-cache/*
+conf/sanity_info
